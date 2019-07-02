@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Olá meu nome é Cleverson Vieira, sou um iniciante no Python.
 
-You can use the [editor on GitHub](https://github.com/nosrevelc/ferramentas_python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A algum tempo conheci o Python e cada dia mais tenho me identificado cada dia mais com esta linguagem que pra min esta sendo completa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tenho utilizado Python todos os dias no meu trabalho para resolver tarefas recorrentes e que me tomavam muito tempo.
 
-### Markdown
+Já tive a oportunidade de utilizar Python com Raspberry e manipulnado GPio, e foi muito bom e interessante.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sendo assim eu sei que preciso aprender muito mas queria iniciar minha contribuição com pouco que aprendi.
 
-```markdown
-Syntax highlighted code block
+Por isso colocar aqui algumas das minhas ferramentas que crie e espero sejá útil a alguém.
 
-# Header 1
-## Header 2
-### Header 3
+Fique a votade para melhorar e compartilhar.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Para quem quiser me conhecer mais tenho um canal do YouTube que tem o nome de "Só Tudo", lá eu tento falar sobre tudo porem até o momento ainda não fiz um tutorial de Pyrhon, mas logo vai ter.
 
-**Bold** and _Italic_ and `Code` text
+[Canal Só Tudo](https://www.youtube.com/channel/UCpp6DFlUW6lZ_SQVTxdM8PA)
 
-[Link](url) and ![Image](src)
-```
+Forte abraço todos fiquem com Deus.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nosrevelc/ferramentas_python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
