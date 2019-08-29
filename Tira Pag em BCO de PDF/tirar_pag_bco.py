@@ -19,4 +19,3 @@ for file in os.listdir():
             ok = open(file[:-4]+'_novo'+'_.pdf','wb')
             pg_ok.write(ok)
             ok.close()
-            #fim
